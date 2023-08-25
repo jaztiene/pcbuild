@@ -61,7 +61,7 @@ https://templatemo.com/tm-558-klassy-cafe
                             </a>
                         </a>
                         <ul class="nav">
-                            <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
+                            <li class="scroll-to-section"><a href="{{url('/')}}" class="active">Home</a></li>
                             <li class="scroll-to-section"><a href="#about">About</a></li>
                             <li class="scroll-to-section"><a href="#menu">Products</a></li>
                             <li class="scroll-to-section"><a href="#chefs">Builders</a></li> 
